@@ -1,4 +1,3 @@
-
 def paragraphAnalysis(filename):
     letterCount = 0
     paragraphNumber = 1
